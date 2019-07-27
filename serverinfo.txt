@@ -1,0 +1,7 @@
+mariadb
+org.mariadb.jdbc.Driver
+Hostname
+portNumber
+dbName
+userName
+userPassword
