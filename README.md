@@ -1,6 +1,6 @@
 # rabbitLogisticsWarehouse
 #### 작성자 소개(About the author)
-> ##### 1. Dodo (rabbit.white@daum.net / jungwy@kumoh.ac.kr)
+> ##### 1. Dodo (rabbit.white@daum.net)
 > ##### 2. Created by: 2019-07-26~2019-07-28
 > ##### 3. Description: 
 > ###### 3-1. 2019-07-28 / Jasper / 
