@@ -14,4 +14,6 @@
 > ##### 1. rabbitLogisticsWarehouse 시연, https://youtu.be/JyWXTK7u5wo, Last Modified 2019-07-28, Accessed by 2019-07-28
 
 #### * 참고(Reference):
-> ##### 1. CWnd::MessageBox | Microsoft Docs, https://docs.microsoft.com/en-us/previous-versions/0eebkf6f(v=vs.140) Last Modified 2019-07-23, Accessed by 2019-07-23
+> ##### 1. OpenJDK, https://openjdk.java.net, Last Modified 2019-07-28, Accessed by 2019-07-28
+> ##### 2. Java SE - Downloads | Oracle Technology Network | Oracle, https://www.oracle.com/technetwork/java/javase/downloads/index.html, Last Modified 2019-07-28, Accessed by 2019-07-28
+> ##### 3. Java API Specifications, https://www.oracle.com/technetwork/java/api-141528.html, Last Modified 2019-07-28, Accessed by 2019-07-28
